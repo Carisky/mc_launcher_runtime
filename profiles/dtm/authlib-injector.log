@@ -1,0 +1,12 @@
+Logging started at 2025-10-30T09:29:20.425Z
+[authlib-injector] [INFO] Version: 1.2.6
+[authlib-injector] [INFO] Authentication server: https://context-monica-heaven-diane.trycloudflare.com
+[authlib-injector] [INFO] Redirect to: https://context-monica-heaven-diane.trycloudflare.com/authlib-injector
+[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
+[authlib-injector] [INFO] Setting accountType to msa
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
+[authlib-injector] [INFO] Httpd is running on port 62010
+[authlib-injector] [INFO] Transformed [net.minecraft.client.entity.AbstractClientPlayer] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Texture Whitelist Transformer]

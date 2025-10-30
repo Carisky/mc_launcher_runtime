@@ -1,0 +1,129 @@
+Mods count: 122
+ 
+jar name                                                      | mod id (isMCreator)             | mixin configs
+forge-1.12.2-14.23.5.2860-universal.jar (modloader)           | forge                           | 
+!!!CrashAssistant-forge-1.12.2-1.10.10.jar                    | crash_assistant                 | 
+    /META-INF/jarjar/app.jar                                  |                                 | 
+!mixinbooter-10.7.jar                                         | mixinbooter                     | mixin.mixinbooter.init.json, mixins.mixinbooter.refmap.json
+[___MixinCompat-1.1-1.12.2___].jar                            | mixincompat                     | mixins.mixincompat.json
+_MixinBootstrap-1.1.0.jar                                     |                                 | 
+    /META-INF/libraries/asm-analysis-6.2.jar                  |                                 | 
+    /META-INF/libraries/asm-util-6.2.jar                      |                                 | 
+_supermartijn642corelib-1.1.18a-forge-mc1.12.jar              | supermartijn642corelib          | supermartijn642corelib.mixins.refmap.json, supermartijn642corelib.mixins.json
+ae2stuff-0.7.0.4-mc1.12.2.jar                                 | ae2stuff                        | 
+AppleSkin-mc1.12-1.0.14.jar                                   | appleskin                       | 
+appliedenergistics2-rv6-stable-7.jar                          | appliedenergistics2             | 
+Aquaculture-1.12.2-1.6.8.jar                                  | aquaculture                     | 
+artifacts-1.12.2-1.2.4.jar                                    | artifacts                       | 
+Asgardandelions-For-Botania-1.12.2-v0.1.jar                   | botaniaasgard                   | 
+AutoRegLib-1.3-32.jar                                         | autoreglib                      | 
+Avaritia-1.12.2-3.3.0.37-universal.jar                        | Avaritia                        | 
+Baubles-1.12-1.5.2.jar                                        | baubles                         | 
+bdlib-1.14.4.1-mc1.12.2.jar                                   | bdlib                           | 
+bettercaves-1.12.2-2.0.4.jar                                  | bettercaves                     | 
+BetterFps-1.4.8.jar                                           |                                 | 
+BetterMineshaftsForge-1.12.2-2.2.1.jar                        | bettermineshafts                | 
+betternether-0.1.8.6.jar                                      | betternether                    | 
+BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar                 | biomesoplenty                   | 
+bonsaitrees-1.1.4-b170.jar                                    | bonsaitrees                     | 
+Bookshelf-1.12.2-2.3.590.jar                                  | bookshelf                       | 
+Botania r1.10-364.4.jar                                       | botania                         | 
+botanianeedsit-1.12.2-3.0-release.jar                         | botanianeedsit                  | 
+Bountiful-2.2.2.jar                                           | bountiful                       | 
+BrandonsCore-1.12.2-2.4.20.162-universal.jar                  | brandonscore                    | 
+carryon-1.12.2-1.12.7.23.jar                                  | carryon                         | 
+chunkloaders-1.2.9-forge-mc1.12.jar                           | chunkloaders                    | 
+Clumps-3.1.2.jar                                              | clumps                          | 
+CodeChickenLib-1.12.2-3.2.3.358-universal.jar                 | codechickenlib                  | 
+CoFHCore-1.12.2-4.6.6.1-universal.jar                         | cofhcore                        | 
+collective-1.12.2-3.0.jar                                     | collective                      | 
+conarm-1.12.2-1.2.5.10.jar                                    | conarm                          | 
+corpse-1.12.2-1.0.8.jar                                       | corpse                          | 
+CTM-MC1.12.2-1.0.2.31.jar                                     | ctm                             | 
+Cucumber-1.12.2-1.1.3.jar                                     | cucumber                        | 
+CustomSkinLoader_ForgeV1-14.26.jar                            | customskinloader                | 
+Cyclic-1.12.2-1.20.14.jar                                     | cyclicmagic                     | 
+Draconic-Evolution-1.12.2-2.3.28.354-universal.jar            | draconicevolution               | 
+EnchantmentDescriptions-1.12.2-1.1.15.jar                     | enchdesc                        | 
+EnderStorage-1.12.2-2.4.6.137-universal.jar                   | enderstorage                    | 
+EntityCulling-1.12.2-6.5.0.jar                                | entityculling                   | mixins.entityculling.json, mixins.entityculling.refmap.json
+ExtraBotany-r1.1-58r.jar                                      | extrabotany                     | 
+extrautils2-1.12-1.9.9.jar                                    | extrautils2                     | 
+ExtremeReactors-1.12.2-0.4.5.68.jar                           | bigreactors                     | 
+FarmingForBlockheads_1.12.2-3.1.28.jar                        | farmingforblockheads            | 
+FastFurnace-1.12.2-1.3.1.jar                                  | fastfurnace                     | 
+FastLeafDecay-v14.jar                                         | fastleafdecay                   | 
+FastWorkbench-1.12.2-1.7.4.jar                                | fastbench                       | 
+Forgelin-1.8.4.jar                                            | forgelin                        | 
+getittogetherdrops-1.12.2-v1.0.2.jar                          | getittogetherdrops              | mixins.getittogetherdrops.json, mixins.getittogetherdrops.refmap.json
+GoodSkeletonsDontStrafe-v1.1.1-1.12.2.jar                     | goodskeletonsdontstrafe         | 
+HammerLib-1.12.2-12.2.58.jar                                  | hammercore                      | 
+Hwyla-1.8.26-B41_1.12.2.jar                                   | waila                           | 
+iceandfire-1.9.1-1.12.2.jar                                   | iceandfire                      | 
+ieclochecompat-2.1.7-dev.454.jar                              | ieclochecompat                  | 
+ImmersiveCables-1.12.2-1.3.2.jar                              | immersivecables                 | 
+ImmersiveEngineering-0.12-98.jar                              | immersiveengineering            | 
+    /META-INF/libraries/ImmersiveEngineering-0.12-98-core.jar |                                 | 
+immersivepetroleum-1.12.2-1.1.10.jar                          | immersivepetroleum              | 
+ImmersivePosts-0.2.1.jar                                      | immersiveposts                  | 
+ironchest-1.12.2-7.0.69.845.jar                               | ironchest                       | 
+ironfurnaces-1.3.5.jar                                        | ironfurnaces                    | 
+isorropia-1.12.2-0.1.14.jar                                   | isorropia                       | 
+jei_1.12.2-4.16.1.301.jar                                     | jei                             | 
+Just-Enough-Botania-1.12.2-v0.2.jar                           | botaniajei                      | mixins.botaniajei.botania_tweaks.json, mixins.botaniajei.refmap.json, mixins.botaniajei.json
+JustEnoughResources-1.12.2-0.9.2.60.jar                       | jeresources                     | 
+Ksyxis-1.3.4.jar                                              | ksyxis                          | ksyxis.mixins.json
+letmedespawn-1.12.2-forge-1.0.2.jar                           |                                 | mixins.letmedespawn.json, mixin.refmap.json
+llibrary-1.7.20-1.12.2.jar                                    | llibrary                        | 
+lootr-1.12.2-0.6.2.jar                                        | lootr                           | lootr.mixins.json, lootr.mixins.dimdoors.json, mixins.lootr.refmap.json
+Mantle-1.12-1.3.3.55.jar                                      | mantle                          | 
+MCTImmersiveTechnology-1.12.2-1.9.102.jar                     | immersivetech                   | 
+Mekanism-1.12.2-9.8.3.390.jar                                 | mekanism                        | 
+MekanismGenerators-1.12.2-9.8.3.390.jar                       | mekanismgenerators              | 
+MmmMmmMmmMmm-1.12-2.0.5.jar                                   | testdummy                       | 
+MouseTweaks-2.10-mc1.12.2.jar                                 | mousetweaks                     | 
+MysticalAgradditions-1.12.2-1.3.2.jar                         | mysticalagradditions            | 
+MysticalAgriculture-1.12.2-1.7.5.jar                          | mysticalagriculture             | 
+nanhealthfixer-1.12.2-0.0.1.jar                               | nanhealthfixer                  | 
+NaturesCompass-1.12.2-1.8.5.jar                               | naturescompass                  | 
+NetherPortalFix_1.12.1-5.3.17.jar                             | netherportalfix                 | 
+OptiFine_1.12.2_HD_U_G5.jar                                   |                                 | 
+Placebo-1.12.2-1.6.1.jar                                      | placebo                         | 
+ProgressiveBosses-1.5.4-mc1.12.x.jar                          | progressivebosses               | 
+Quark-r1.6-179.jar                                            | quark                           | 
+RedstoneFlux-1.12-2.1.1.1-universal.jar                       | redstoneflux                    | 
+RenderLib-1.12.2-1.4.5.jar                                    | renderlib                       | mixins.renderlib.refmap.json, mixins.renderlib.json
+Rex's-AdditionalStructures-1.12.x(v.2.5.0).jar                | additionalstructures            | 
+SereneSeasons-1.12.2-1.2.18-universal.jar                     | sereneseasons                   | 
+Server-Pauser-1.12.2-1.0.0.jar                                | serverpauser                    | mixins.serverpauser.json, mixins.serverpauser.refmap.json
+sharetome-1.0.jar                                             | sharetome                       | 
+SolarFluxAdditions-1.12.2-12.3.2.jar                          |                                 | 
+SolarFluxReborn-1.12.2-12.4.11.jar                            | solarflux                       | 
+stg-1.12.2-1.2.3.jar                                          | stg                             | 
+supermartijn642configlib-1.1.8-forge-mc1.12.jar               | supermartijn642configlib        | 
+tc6aspects4jei-0.0.2a.jar                                     | tc6aspects4jei                  | 
+TConstruct-1.12.2-2.13.0.183.jar                              | tconstruct                      | 
+Thaumcraft-1.12.2-6.1.BETA26.jar                              | thaumcraft                      | 
+ThaumcraftBlocks_Beta-1.0-1.12.2.jar                          | thaumcraftblocks (MCreator mod) | 
+Thaumic Arcana-1.3.0.jar                                      | thaumic_arcana                  | 
+Thaumic_Gadgets_1.12.2_0.1.6_tb.26.jar                        | tg                              | 
+ThaumicAdditions-1.12.2-12.7.9.jar                            | thaumicadditions                | 
+ThaumicAugmentation-1.12.2-2.1.14.jar                         | thaumicaugmentation             | 
+thaumicbases-3.6.022.1.jar                                    | thaumicbases                    | 
+thaumicenergistics-2.2.4.jar                                  | thaumicenergistics              | 
+ThaumicForever-6.2.jar                                        | thaumicforever                  | mixins.thaumicforever.json
+ThaumicJEI-1.12.2-1.7.0.jar                                   | thaumicjei                      | 
+thaumicperiphery-0.3.1.jar                                    | thaumicperiphery                | 
+ThaumicTerminal-1.0.12.jar                                    | thaumicterminal                 | 
+thaumictinkerer-1.12.2-5.0-620a0c5.jar                        | thaumictinkerer                 | 
+TinkerToolLeveling-1.12.2-1.1.0.jar                           | tinkertoolleveling              | 
+trashcans-1.0.18-forge-mc1.12.jar                             | trashcans                       | 
+TrashSlot_1.12.2-8.4.10.jar                                   | trashslot                       | 
+TravelersBackpack-1.12.2-1.0.35.jar                           | travelersbackpack               | 
+UnicodeFontExtension-1.12.2-2.7.jar                           | unicodefontextension            | 
+villagernames_1.12.2-3.4.jar                                  | villagernames                   | 
+Waystones_1.12.2-4.1.0.jar                                    | waystones                       | 
+XaeroPlus-Forge-1.12.2-179-WM1.39.12-MM25.2.10.jar            | xaeroplus                       | mixins.xaeroplus.refmap.json, mixins.xaeroplus.json
+Xaeros_Minimap_25.2.10_Forge_1.12.jar                         | xaerominimap                    | 
+XaerosWorldMap_1.39.12_Forge_1.12.jar                         | xaeroworldmap                   | 
+zerocore-1.12.2-0.1.2.9.jar                                   | zerocore                        | 

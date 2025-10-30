@@ -1,0 +1,21 @@
+{
+  "nickname": "Player",
+  "ramMb": 8192,
+  "activeProfileId": null,
+  "profiles": [],
+  "selectedModpack": "dtm",
+  "auth": {
+    "provider": "drasl",
+    "baseUrl": "https://context-monica-heaven-diane.trycloudflare.com",
+    "allowRegistration": true,
+    "clientToken": "",
+    "accessToken": null,
+    "refreshToken": null,
+    "selectedProfile": null,
+    "availableProfiles": [],
+    "user": null,
+    "minecraftToken": null,
+    "lastAuthAt": null,
+    "tokenExpiresAt": null
+  }
+}
