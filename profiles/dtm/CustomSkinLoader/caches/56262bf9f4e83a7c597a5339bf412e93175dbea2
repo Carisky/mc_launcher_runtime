@@ -1,0 +1,9 @@
+{
+  "id" : "6c82142c7003408ea21f5dd5a351700b",
+  "name" : "Yolka_today",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2MTc3MzIxOTAyMywKICAicHJvZmlsZUlkIiA6ICI2YzgyMTQyYzcwMDM0MDhlYTIxZjVkZDVhMzUxNzAwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJZb2xrYV90b2RheSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNDU2ZGU2N2VlMjJjM2RjYWU1NzM1OGEwZWE5NjQzYjJhZmJmOTE2M2UxODA0OTAyYTVkODU0YTlhMTQyNmQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
